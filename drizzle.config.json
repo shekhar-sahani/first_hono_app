@@ -1,0 +1,13 @@
+{
+    "schema": "./src/db/schema.js",
+    "out": "./migrations",
+    "dialect": "postgresql",
+    "host": "localhost",
+    "port": 5432,   
+    "user": "postgres",
+    "password": "starlord",
+    "database": "first_hono_db",
+    "ssl": false
+  }
+
+  

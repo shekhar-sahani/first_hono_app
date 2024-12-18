@@ -1,0 +1,3 @@
+To run the server run command: bun run index.js
+To access the scalar docs go to http://localhost:PORT/docs
+To run the drizzle studio run command: bun drizzle-kit-studio
