@@ -1,6 +1,6 @@
 {
   "name": "first_hono_and_drizzle_app",
-  "module": "index.ts",
+  "module": "index.js",
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest",
